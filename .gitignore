@@ -1,0 +1,23 @@
+# Node.js and React dependencies
+node_modules/
+build/
+dist/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Logs and OS junk
+*.log
+.DS_Store
+
+# Environment files
+.env
+.env.local
+
+# IDE settings
+.vscode/
+.idea/
+
+# System folders
+Thumbs.db
